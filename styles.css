@@ -23,3 +23,7 @@ h3{
 .align {
     text-align: center;
 }
+
+.left {
+    text-align: left;
+}
